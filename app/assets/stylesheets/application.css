@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+#question {
+  border-left: 10px solid grey;
+  padding-left: 10px;
+  background-color: rgb(236, 236, 223);
+}
+
+#answer {
+  border-left: 10px solid grey;
+  padding-left: 10px;
+  background-color: rgb(245, 245, 189);
+}
